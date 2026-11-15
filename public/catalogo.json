@@ -1,0 +1,8 @@
+[
+ {"id":"cemento","name":"Cemento portland","category":"Cemento","unit":"Bolsa de 50 kg","price":52000,"stock":240,"art":"cemento","description":"Cemento para trabajos generales de albañilería. Mantener en un lugar seco.","tag":"Más vendido"},
+ {"id":"ladrillo","name":"Ladrillo común","category":"Ladrillos","unit":"Unidad","price":1800,"stock":6000,"art":"ladrillo","description":"Ladrillo cerámico para mampostería. Confirmar dimensiones y rendimiento con el proveedor.","tag":"Precio por unidad"},
+ {"id":"arena","name":"Arena lavada","category":"Arena","unit":"1 m³","price":120000,"stock":150,"art":"arena","description":"Arena para mezcla y trabajos de albañilería. Venta por metro cúbico.","tag":"Para tu obra"},
+ {"id":"hierro","name":"Varilla de hierro 12 mm","category":"Hierro","unit":"Varilla · precio de referencia","price":8500,"stock":500,"art":"hierro","description":"Confirmar longitud, grado y precio con el proveedor antes de usar en una estructura.","tag":"Consultar especificación"},
+ {"id":"pintura","name":"Pintura látex blanca","category":"Pintura","unit":"Balde de 20 L","price":285000,"stock":60,"art":"pintura","description":"Pintura interior blanca. Rendimiento orientativo según superficie y fabricante.","tag":"Terminaciones"},
+ {"id":"taladro","name":"Taladro inalámbrico","category":"Herramientas","unit":"Equipo de 20 V","price":450000,"stock":25,"art":"taladro","description":"Equipo de referencia con batería. Confirmar marca, accesorios y garantía.","tag":"Equipá tu obra"}
+]
